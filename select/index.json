@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "OLA!!",
+  "base_artist": "ゆず",
+  "createdAt": "2026-02-15T06:06:22.420061Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Koladi-Ola",
+      "artist": "Yello",
+      "has_synced": true,
+      "path": "select/01_Koladi-Ola_Yello.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ole Ole Singin Ole Ola",
+      "artist": "Rollergirl",
+      "has_synced": true,
+      "path": "select/02_Ole_Ole_Singin_Ole_Ola_Rollergirl.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Olé Olé Singin Olé Ola",
+      "artist": "Rollergirl",
+      "has_synced": true,
+      "path": "select/03_Olé_Olé_Singin_Olé_Ola_Rollergirl.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ola Kala",
+      "artist": "I'm from Barcelona",
+      "has_synced": true,
+      "path": "select/04_Ola_Kala_I'm_from_Barcelona.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aala Ola",
+      "artist": "Santhosh Narayanan feat. Anthony Daasan",
+      "has_synced": true,
+      "path": "select/05_Aala_Ola_Santhosh_Narayanan_feat._Anthony_Daasan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aala Ola",
+      "artist": "Santhosh Narayanan",
+      "has_synced": true,
+      "path": "select/06_Aala_Ola_Santhosh_Narayanan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Ola Hand In Hand",
+      "artist": "Masterboy",
+      "has_synced": true,
+      "path": "select/07_La_Ola_Hand_In_Hand_Masterboy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+      "artist": "Pitbull feat. Jennifer Lopez & Claudia Leitte",
+      "has_synced": true,
+      "path": "select/08_We_Are_One_(Ole_Ola)_[The_Official_2014_FIFA_World_Cup_Song]_(feat._Jennifer_Lop_Pitbull_feat._Jennifer_Lopez_&_Claudia_Leitte.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song]",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/09_We_Are_One_(Ole_Ola)_[The_Official_2014_FIFA_World_Cup_Song]_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup™ Song]",
+      "artist": "Pitbull feat. Jennifer Lopez & Claudia Leitte",
+      "has_synced": true,
+      "path": "select/10_We_Are_One_(Ole_Ola)_[The_Official_2014_FIFA_World_CupTM_Song]_Pitbull_feat._Jennifer_Lopez_&_Claudia_Leitte.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song]",
+      "artist": "Pitbull (ft. Jennifer Lopez & Claudia Leitte)",
+      "has_synced": true,
+      "path": "select/11_We_Are_One_(Ole_Ola)_[The_Official_2014_FIFA_World_Cup_Song]_Pitbull_(ft._Jennifer_Lopez_&_Claudia_Leitte).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Are One (Ole Ola) (Olodum Mix)",
+      "artist": "Pitbull feat. Jennifer Lopez & Claudia Leitte",
+      "has_synced": true,
+      "path": "select/12_We_Are_One_(Ole_Ola)_(Olodum_Mix)_Pitbull_feat._Jennifer_Lopez_&_Claudia_Leitte.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song]",
+      "artist": "Pitbull, Jennifer Lopez, Claudia Leitte",
+      "has_synced": true,
+      "path": "select/13_We_Are_One_(Ole_Ola)_[The_Official_2014_FIFA_World_Cup_Song]_Pitbull,_Jennifer_Lopez,_Claudia_Leitte.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Momma (Ola Mae)",
+      "artist": "Warren G feat. Jermaine Dupri And Nate Dogg",
+      "has_synced": false,
+      "path": "select/14_My_Momma_(Ola_Mae)_Warren_G_feat._Jermaine_Dupri_And_Nate_Dogg.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Momma (Ola Mae)",
+      "artist": "Warren G",
+      "has_synced": false,
+      "path": "select/15_My_Momma_(Ola_Mae)_Warren_G.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Are One (Ole Ola)",
+      "artist": "Pitbull feat. Jennifer Lopez & Claudia Leitte",
+      "has_synced": true,
+      "path": "select/16_We_Are_One_(Ole_Ola)_Pitbull_feat._Jennifer_Lopez_&_Claudia_Leitte.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "We Are One (Ole Ola) (feat. Jennifer Lopez & Claudia Leitte)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/17_We_Are_One_(Ole_Ola)_(feat._Jennifer_Lopez_&_Claudia_Leitte)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] [feat. Jennifer Lopez & Claudia Leitte]",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/18_We_Are_One_(Ole_Ola)_[The_Official_2014_FIFA_World_Cup_Song]_[feat._Jennifer_Lop_Pitbull.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OLA!!",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_OLA!!_ゆず.txt"
+    }
+  ]
+}
